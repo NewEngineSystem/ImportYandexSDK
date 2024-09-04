@@ -1087,6 +1087,12 @@ cd "$(dirname "$0")"
       overflow: hidden;
       margin: 0;
       padding: 0;
+      -webkit-touch-callout: none;
+      -webkit-user-select: none;
+      -khtml-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none
     }
     :root, body.is-fullscreen {
       background-color: ${this.options.appearance.background};
