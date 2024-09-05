@@ -911,7 +911,7 @@
       <div>
         {#if $options.target.startsWith('zip')}
           <h2>Zip</h2>
-          <p>The zip environment is intended to be used for publishing to a website. Other uses such as sending your project to a friend over a chat app or email should use "Plain HTML" instead as zip will not work.</p>
+          <p>The zip environment is intended to be used for publishing to a website Yandex Games</p>
         {:else}
           <h2>{$_('options.applicationSettings')}</h2>
           <label class="option">
