@@ -334,7 +334,6 @@
       'maxClones',
       'fencing',
       'miscLimits',
-      'dangerousOptimizations',
       'stageWidth',
       'stageHeight',
       'resizeMode',
