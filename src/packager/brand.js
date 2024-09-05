@@ -30,8 +30,8 @@ If this is set to an empty string, the link is removed.
 */
 
 module.exports = {
-  APP_NAME: 'PenguinMod Packager',
-  WEBSITE: 'https://studio.penguinmod.com/PenguinMod-Packager/',
+  APP_NAME: 'Packager By NES Games',
+  WEBSITE: 'https://newenginesystem.github.io/ImportYandexSDK/',
   COPYRIGHT_NOTICE: `Copyright (C) 2021-2022 Thomas Weber
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -46,7 +46,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.`,
   ACCENT_COLOR: '#00c3ff',
-  SOURCE_CODE: 'https://github.com/PenguinMod/PenguinMod-Packager',
+  SOURCE_CODE: 'https://github.com/NewEngineSystem/ImportYandexSDK/',
   FEEDBACK_PRIMARY: {
     name: 'Discord',
     link: 'https://discord.gg/NZ9MBMYTZh'
